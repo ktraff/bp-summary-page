@@ -1,5 +1,5 @@
-=== BP Summary Page ===
-
+BP Summary Page
+===============
 Contributors: ktraff
 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW3GZDJ89NX4A
@@ -16,8 +16,8 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
-
+Description
+-----------
 
 Need to add an online summary to BuddyPress? We developed a plugin that is small and compact just for you.
 
@@ -25,7 +25,8 @@ There is no backend settings to configure, it's all frontend, just that simple.
 
 
 
-== Installation ==
+Installation
+------------
 1a. Upload the bp_summary_page folder to the `/wp-content/plugins/` directory.
 or
 1b.Download through the plugins manager in the WordPress backend admin area. 
@@ -35,13 +36,16 @@ or
 
 
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+--------------------------
 
-= Can you add functionality? =
+Can you add functionality
+-------------------------
 
 Possibly, email us at <a href="mailto:ktraff@engr.colostate.edu">ktraff@engr.colostate.edu</a>.
 
-== Changelog ==
+Changelog
+---------
 
 =1.0=
 Plugin Initial Release
