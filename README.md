@@ -1,6 +1,6 @@
 BP Summary Page
 ===============
-Contributors: ktraff
+Contributors: Kyle Traff
 
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BW3GZDJ89NX4A
 
